@@ -36,3 +36,4 @@ coverage/
 logs/
 .vscode/settings.json
 lightning-inspector-latest.zip
+.history/*
